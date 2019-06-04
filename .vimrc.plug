@@ -1,0 +1,11 @@
+call plug#begin('~/.vim/plugged')
+
+"Fugitive Vim Github Wrapper
+Plug 'tpope/vim-fugitive'
+Plug 'scrooloose/nerdtree'
+Plug 'w0rp/ale'
+Plug 'Valloric/YouCompleteMe'
+
+
+call plug#end()
+
